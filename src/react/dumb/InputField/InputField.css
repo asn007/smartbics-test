@@ -1,0 +1,9 @@
+:local .input {
+  border: 1px solid #1e1e1e;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+:local .input:focus {
+  border: 1px solid black;
+}

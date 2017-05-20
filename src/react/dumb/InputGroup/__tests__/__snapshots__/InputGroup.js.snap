@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputField it should render its markup correctly 1`] = `
+<div
+  className="inputGroup test"
+>
+  <input
+    className="input "
+    value="test"
+  />
+  <button
+    className="btn   "
+  >
+    <div>
+      Test
+    </div>
+  </button>
+</div>
+`;

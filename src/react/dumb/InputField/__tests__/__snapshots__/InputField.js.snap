@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputField it should render its markup correctly 1`] = `
+<input
+  className="input test"
+  value="text"
+/>
+`;
