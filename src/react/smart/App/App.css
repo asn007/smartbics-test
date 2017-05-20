@@ -1,0 +1,9 @@
+:local .buttonRow {
+  display: flex;
+  flex-direction: row;
+}
+
+:local .buttonRow > * {
+  margin-left: 5px;
+  margin-right: 5px;
+}
